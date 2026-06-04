@@ -1,8 +1,8 @@
 // Author : Priyanshu Verma
-// LeetCode Problem No. : 328
-// Odd Even Linked List
+// LeetCode Problem No. : 19
+// Remove Nth Node From End of List
 // Level : Medium
-// link : https://leetcode.com/problems/odd-even-linked-list/
+// link : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 /**
  * Definition for singly-linked list.

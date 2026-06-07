@@ -4,7 +4,8 @@
 // Level : Medium
 // link : https://leetcode.com/problems/asteroid-collision/
 
-int* asteroidCollision(int* asteroids, int asteroidsSize, int* returnSize) {
+int* asteroidCollision(int* asteroids, int asteroidsSize, int* returnSize)
+{
     int *stack = malloc(asteroidsSize * sizeof(*stack));
     int *ans;
     int top = -1;

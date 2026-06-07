@@ -4,7 +4,8 @@
 // Level : Medium
 // link : https://leetcode.com/problems/3sum/
 
-class Solution {
+class Solution
+{
     public List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length;
         List<List<Integer>> ans = new ArrayList<>();

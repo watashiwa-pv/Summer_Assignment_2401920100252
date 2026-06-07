@@ -4,7 +4,8 @@
 // Level : Medium
 // link : https://leetcode.com/problems/string-to-integer-atoi/
 
-int myAtoi(char* s) {
+int myAtoi(char* s)
+{
     int i = 0;
     int sign = 1;
     int num = 0;
